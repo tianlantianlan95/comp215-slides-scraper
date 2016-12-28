@@ -1,5 +1,5 @@
 # comp215-slides-scraper
-The program downloads the slides on comp215 website to the current dir or a designated dir
+The program downloads the slides on comp215 website to the current directory or a designated directory
 
 Prerequisite:
 1. Install Python (2.0 above) 
