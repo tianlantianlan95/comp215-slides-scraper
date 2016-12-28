@@ -3,9 +3,7 @@ The program downloads the slides on comp215 website to the current directory or 
 
 (1) Prerequisite:
       1. Install Python (2.0 above) 
-      2. With Python installed, simply type "easy_install beautifulsoup4"(excluding the quotes) on terminal to install     
-      beautifulsoup4. 
-      Note: beautifulsoup4 is a Python library which allow you to pull data out of HTML and XML files.
+      2. With Python installed, simply type "easy_install beautifulsoup4"(excluding the quotes) on terminal to install beautifulsoup4. (Note: beautifulsoup4 is a Python library which allow you to pull data out of HTML and XML files).
 
 (2) To run the program on Mac: 
       1. Open terminal
