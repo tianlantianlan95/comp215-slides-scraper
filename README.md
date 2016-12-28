@@ -1,15 +1,15 @@
 # comp215-slides-scraper
 The program downloads the slides on comp215 website to the current directory or a designated directory
 
-(1) Prerequisite:
-      1. Install Python (2.0 above) 
-      2. With Python installed, simply type "easy_install beautifulsoup4"(excluding the quotes) on terminal to install beautifulsoup4. (Note: beautifulsoup4 is a Python library which allow you to pull data out of HTML and XML files).
+1. Prerequisite:
+  1. Install Python (2.0 above)
+  2. With Python installed, simply type "easy_install beautifulsoup4"(excluding the quotes) on terminal to install beautifulsoup4. <br />(Note: beautifulsoup4 is a Python library which allow you to pull data out of HTML and XML files).
 
-(2) To run the program on Mac: 
-      1. Open terminal
-      2. Either type "python [path]/comp215dl.py" or navigate to the source folder and type "python /comp215dl.py"
+2. To run the program on Mac: 
+  1. Open terminal
+  2. Either type "python [path]/comp215dl.py" or navigate to the source folder and type "python comp215dl.py"
 
-(3) Example(The source file is put in /Users/Tim/Documents/comp215-slides-backup):
+3. Example(The source file is put in /Users/Tim/Documents/comp215-slides-backup):
 
 $ python /Users/Tim/Documents/comp215-slides-backup/comp215dl.py
 ************************************************
